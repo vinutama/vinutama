@@ -1,5 +1,5 @@
 ### 👨‍💻 Summary
-![vinutama's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinutama&show_icons=true&theme=dark&rank_icon=github)
+![vinutama's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinutama&show_icons=true&theme=dark&rank_icon=github&show=prs_merged)
 
 
 ### 🏆 Used Languages
