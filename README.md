@@ -1,9 +1,9 @@
 ### 📊 Summary
-![vinutama's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinutama&show_icons=true&theme=dark&rank_icon=github&show=prs_merged)
+![vinutama's Github Overview](https://raw.githubusercontent.com/vinutama/github-visualization/master/generated/overview.svg#gh-dark-mode-only)
 
 
 ### 👨‍💻 Used Languages
-![Top Langs](https://github.com/vinutama/vinutama/blob/main/used_lang.png?raw=true)
+![Languages](https://raw.githubusercontent.com/vinutama/github-visualization/master/generated/languages.svg#gh-dark-mode-only)
 
 <!--
 **vinutama/vinutama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
